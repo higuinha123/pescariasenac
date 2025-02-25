@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="imgs">
+    <file>climaChuvoso.png</file>
+    <file>climaLimpo.png</file>
+  </qresource>
+</RCC>
